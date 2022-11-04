@@ -49,37 +49,37 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img05.svg' alt='AvatarTop')
-        h4.text-center Evaluación de riesgos.
+        h4.text-center.text-white Evaluación de riesgos.
       .BGIMG07.p-md-4.p-3
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img06.svg' alt='AvatarTop')
-        h4.text-center Prevención de lesiones.
+        h4.text-center.text-white Prevención de lesiones.
       .BGIMG07.p-md-4.p-3
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img07.svg' alt='AvatarTop')
-        h4.text-center Equilibrio trabajo-vida.
+        h4.text-center.text-white Equilibrio trabajo-vida.
       .BGIMG07.p-md-4.p-3
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img08.svg' alt='AvatarTop')
-        h4.text-center Protocolos de seguridad.
+        h4.text-center.text-white Protocolos de seguridad.
       .BGIMG07.p-md-4.p-3
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img09.svg' alt='AvatarTop')
-        h4.text-center Peligros en el lugar de trabajo.
+        h4.text-center.text-white Peligros en el lugar de trabajo.
       .BGIMG07.p-md-4.p-3
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img10.svg' alt='AvatarTop')
-        h4.text-center Compensación y beneficios.
+        h4.text-center.text-white Compensación y beneficios.
       .BGIMG07.p-md-4.p-3
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema6/img11.svg' alt='AvatarTop')
-        h4.text-center Manejo de empleados.
+        h4.text-center.text-white Manejo de empleados.
 
     p Para integrar a fondo los conceptos anteriormente mencionados sobre seguridad laboral, es importante determinar y reconocer aquellos clasificados como los más comunes dentro de múltiples tipos de actividades laborales, estos se encuentran socializados en el documento ‘Guía de buenas prácticas de PRL en el sector cementero español’ (Oficemen, 2017), y serán descritos a continuación:
 

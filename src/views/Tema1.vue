@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-acento-botones.p-4
-          p.mb-0 Existe un objetivo claro para el desarrollo de técnicas de propagación vegetal, la necesidad que propone un mercado en constante evolución  pese a las dificultades que presenta el medio ambiente. Es por esto que, el desarrollo de la agricultura genera deterioros ambientales en diferentes aspectos y, por esta razón, se deben proponer y desarrollar técnicas que permitan la productividad de una manera responsable con el suelo, con el agua, con la fauna asociada y con la salud, no solo de quienes intervienen directamente en la ejecución de todas las fases de un proyecto de propagación de material vegetal , también de aquellos a quienes impacta el resultado de la producción agrícola a partir del uso de técnicas in vitro.
+          p.mb-0 Existe un objetivo claro para el desarrollo de técnicas de propagación vegetal, la necesidad que propone un mercado en constante evolución  pese a las dificultades que presenta el medio ambiente. Es por esto que, el desarrollo de la agricultura genera deterioros ambientales en diferentes aspectos y, por esta razón, se deben proponer y desarrollar técnicas que permitan la productividad de una manera responsable con el suelo, con el agua, con la fauna asociada y con la salud, no solo de quienes intervienen directamente en la ejecución de todas las fases de un proyecto de propagación de material vegetal, también de aquellos a quienes impacta el resultado de la producción agrícola a partir del uso de técnicas #[em in vitro].
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img01.svg")
 
@@ -39,7 +39,7 @@
             img(src="@/assets/curso/tema1/img04.svg")
         .row.justify-content-center.align-items-center
           .col-lg-5.order-lg-1.order-2
-            p.mb-0 Así mismo, si se presentan fenómenos como huracanes, precipitaciones intensas y desmedidas, o, por el contrario, sequías prolongadas que impliquen otras dinámicas para acceder al recurso hídrico, se evidenciarían alteraciones climáticas cuyas consecuencias y afecciones a un cultivo in vitro, en cualquiera de sus etapas, podrían ser remediadas con la utilización de estrategias agroambientales.
+            p.mb-0 Así mismo, si se presentan fenómenos como huracanes, precipitaciones intensas y desmedidas, o, por el contrario, sequías prolongadas que impliquen otras dinámicas para acceder al recurso hídrico, se evidenciarían alteraciones climáticas cuyas consecuencias y afecciones a un cultivo #[em in vitro], en cualquiera de sus etapas, podrían ser remediadas con la utilización de estrategias agroambientales.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img05.svg")
 

@@ -10,12 +10,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-acento-botones.p-4
-          p.mb-0 Reconociendo los elementos destacados de la interpretación ambiental y el tipo de estructuras requeridas para la propagación del material, es necesario tener claridad que, para el desarrollo in vitro, se debe articular la compilación del ambiente físico, el ambiente químico y el material biológico que será micropropagado.
+          p.mb-0 Reconociendo los elementos destacados de la interpretación ambiental y el tipo de estructuras requeridas para la propagación del material, es necesario tener claridad que, para el desarrollo #[em in vitro], se debe articular la compilación del ambiente físico, el ambiente químico y el material biológico que será micropropagado.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema3/img01.png")
 
     .BGIMG04.p-md-.px-4(data-aos="zoom-in")
-      p.mb-5 En cada una de las fases que acompañan el desarrollo de la micropropagación a través de las técnicas in vitro, es necesario la interpretación de los siguientes aspectos.
+      p.mb-5 En cada una de las fases que acompañan el desarrollo de la micropropagación a través de las técnicas #[em in vitro], es necesario la interpretación de los siguientes aspectos.
       SlyderF.mb-5(columnas="col-xl-4 col-md-6")
         .BGIMG05.p-4
           .row.justify-content-center.mb-3

@@ -9,7 +9,7 @@
 
     p En el primer apartado se presentó un contexto de la interpretación ambiental, en este, se reconocerá el tipo de estructura requerida para la propagación del material vegetal.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Diferentes infraestructuras son requeridas para el desarrollo de la propagación del material vegetal y, a lo largo de este proceso, el material vegetal pasa por diferentes espacios y fases, los cuales están determinados por cuidados especiales que se relacionan con el crecimiento y desarrollo del material.

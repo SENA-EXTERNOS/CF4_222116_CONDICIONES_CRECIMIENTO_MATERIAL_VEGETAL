@@ -15,10 +15,10 @@
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Opción múltiple
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Opción múltiple
+                span Realizar
                 i.fas.fa-puzzle-piece
                 
 </template>

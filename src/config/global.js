@@ -238,16 +238,28 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Normatividad ambiental en el manejo de agroinsumos.',
+      referencia:
+        'Decreto 1843 de 1991. [Ministerio de Salud]. Por el cual se reglamentan parcialmente los títulos iii, v,vi, vii y xi de la ley 09 de 1979, sobre uso y manejo de plaguicidas. Agosto 26 de 1991.',
+      tipo: 'Decreto.',
+      link:
+        'https://www.dssa.gov.co/index.php/descargas/1011-decreto-1843-1991/file#:~:text=Art%C3%ADculo%201o.,o%20causen%20deterioro%20del%20ambiente',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Normatividad vigente en salud y seguridad ocupacional.',
+      referencia:
+        'Decreto 1443 de 2014. [Ministerio del Trabajo]. Por el cual se dictan disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST). Julio 31 de 2014.',
+      tipo: 'Decreto.',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/36482/decreto_1443_sgsss.pdf/ac41ab70-e369-9990-c6f4-1774e8d9a5fa',
+    },
+    {
+      tema: 'Normatividad vigente en salud y seguridad ocupacional.',
+      referencia:
+        'Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los estándares mínimos del sistema de gestión de la seguridad y salud en el trabajo SG-SST. Febrero 13 del 2019.',
+      tipo: 'Resolución.',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/59995826/Resolucion+0312-2019-+Estandares+minimos+del+Sistema+de+la+Seguridad+y+Salud.pdf',
     },
   ],
   glosario: [
@@ -294,28 +306,28 @@ export default {
     {
       termino: 'Heterotróficas',
       significado:
-        'acciones propias por desarrollar en el estadio de desarrollo de la planta. ',
+        'acciones propias por desarrollar en el estadio de desarrollo de la planta.',
     },
     {
       termino: 'Biofertilizantes',
       significado:
-        'significadofertilizantes de composición biológica utilizados para nutrir las plantas.Valor',
+        'fertilizantes de composición biológica utilizados para nutrir las plantas.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Alcántara, C., Castilla, P. & Sánchez, M. (2017). Importancia de los cultivos vegetales In vitro para establecer bancos de germoplasma y su uso en investigaciones. Biociencias, 1, p.1-13.',
+        'Alcántara, C., Castilla, P. & Sánchez, M. (2017). Importancia de los cultivos vegetales <em>In vitro</em> para establecer bancos de germoplasma y su uso en investigaciones. <em>Biociencias</em>, 1, p.1-13.',
     },
     {
       referencia:
-        'Carrera, E., Navarrete, E., Paredes, A. & Rivadeneira, C. (2019). Seguridad y salud ocupacional. Instituto Superior Tecnológico Corporativo Edwards Deming.',
+        'Carrera, E., Navarrete, E., Paredes, A. & Rivadeneira, C. (2019). <em>Seguridad y salud ocupacional</em>. Instituto Superior Tecnológico Corporativo Edwards Deming.',
       link:
         'http://142.93.18.15:8080/jspui/bitstream/123456789/463/3/salud%20y%20seguridad%20ocupacional.pdf',
     },
     {
       referencia:
-        'Courtis. A. (2014). Guía de estudio "Crecimiento y desarrollo". Universidad Nacional del Nordeste.',
+        'Courtis. A. (2014). <em>Guía de estudio "Crecimiento y desarrollo"</em>. Universidad Nacional del Nordeste.',
       link:
         'https://exa.unne.edu.ar/biologia/fisiologia.vegetal/Gu%C3%ADa%20de%20Estudio-Crecimientoydesarrollo.pdf',
     },
@@ -325,25 +337,25 @@ export default {
     },
     {
       referencia:
-        'Fertilab. (2015). Importancia del sistema radical de las plantas. Fertilab.',
+        'Fertilab. (2015). <em>Importancia del sistema radical de las plantas</em>. Fertilab.',
       link:
         'https://www.fertilab.com.mx/blog/40-importancia-del-sistema-radical-de-las-plantas/#notas',
     },
     {
       referencia:
-        'Oficemen. (2017). Guía de Buenas Prácticas de PRL en el Sector Cementero Español. Oficemen.',
+        'Oficemen. (2017). <em>Guía de Buenas Prácticas de PRL en el Sector Cementero Español</em>. Oficemen.',
       link:
         'https://www.ficem.org/CIC-descargas/espania/Guia-completa-de-buenas-practicas-para-la-prevencion-de-riesgos-laborales-en-el-sector-cementero-espanol.pdf',
     },
     {
       referencia:
-        'Pacheco R. & Barbona, E. (2017). Manual de uso seguro y responsable de agroquímicos en cultivos frutihortícolas. Instituto Nacional de Tecnología Agropecuaria.',
+        'Pacheco R. & Barbona, E. (2017). <em>Manual de uso seguro y responsable de agroquímicos en cultivos frutihortícolas</em>. Instituto Nacional de Tecnología Agropecuaria.',
       link:
         'https://inta.gob.ar/sites/default/files/inta-manual-uso-agroquimicos-frutihorticola.pdf',
     },
     {
       referencia:
-        'Rueda, C.N. (2019). Actualización de los conceptos asociados con la regeneración celular en plantas [Tesis de pregrado, Universidad de Santander]. Repositorio Institucional Universidad de Santander.',
+        'Rueda, C.N. (2019). <em>Actualización de los conceptos asociados con la regeneración celular en plantas</em> [Tesis de pregrado, Universidad de Santander]. Repositorio Institucional Universidad de Santander.',
       link: 'http://repositorio.udes.edu.co/handle/001/1063',
     },
     {
