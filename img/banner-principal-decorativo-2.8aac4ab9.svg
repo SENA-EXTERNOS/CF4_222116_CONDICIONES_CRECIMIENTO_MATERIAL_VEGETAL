@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146.446" height="126.825" viewBox="0 0 146.446 126.825">
+  <g id="Grupo_894170" data-name="Grupo 894170" transform="translate(-867.684 -99.403)">
+    <path id="Trazado_251618" data-name="Trazado 251618" d="M115.661,69.523l-.577-.993H113.93" transform="translate(862.148 31.363)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98"/>
+    <path id="Trazado_251619" data-name="Trazado 251619" d="M53.211,68.53H52.057l-.577.993" transform="translate(852.524 31.363)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98"/>
+    <path id="Trazado_251620" data-name="Trazado 251620" d="M21.077,122.18l-.577,1,.577.993" transform="translate(847.75 39.632)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98"/>
+    <path id="Trazado_251621" data-name="Trazado 251621" d="M51.48,176.7l.577,1h1.154" transform="translate(852.524 48.034)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98"/>
+    <path id="Trazado_251622" data-name="Trazado 251622" d="M113.93,177.7h1.154l.577-1" transform="translate(862.148 48.034)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98"/>
+    <path id="Trazado_251623" data-name="Trazado 251623" d="M145.91,124.177l.577-.993-.577-1" transform="translate(867.077 39.632)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98"/>
+    <path id="Trazado_251617" data-name="Trazado 251617" d="M125.151,73.67H59.344l-32.9,56.99,32.9,56.99h65.808l32.892-56.99Z" transform="translate(848.665 32.155)" fill="rgba(254,254,254,0.15)" stroke="#fefefe" stroke-miterlimit="10" stroke-width="0.89"/>
+    <line id="Línea_473" data-name="Línea 473" x1="66.95" transform="translate(906.866 99.894)" fill="none" stroke="#fefefe" stroke-miterlimit="10" stroke-width="0.98" stroke-dasharray="1.97 1.97"/>
+    <line id="Línea_474" data-name="Línea 474" x1="33.469" y2="57.971" transform="translate(869.393 102.859)" fill="none" stroke="#fefefe" stroke-miterlimit="10" stroke-width="0.98" stroke-dasharray="1.97 1.97"/>
+    <line id="Línea_475" data-name="Línea 475" x2="33.481" y2="57.971" transform="translate(869.958 165.781)" fill="none" stroke="#fefefe" stroke-miterlimit="10" stroke-width="0.98" stroke-dasharray="1.97 1.97"/>
+    <line id="Línea_476" data-name="Línea 476" x2="66.95" transform="translate(907.998 225.737)" fill="none" stroke="#fefefe" stroke-miterlimit="10" stroke-width="0.98" stroke-dasharray="1.97 1.97"/>
+    <line id="Línea_477" data-name="Línea 477" y1="57.971" x2="33.469" transform="translate(978.952 164.801)" fill="none" stroke="#28965a" stroke-miterlimit="10" stroke-width="0.98" stroke-dasharray="1.97 1.97"/>
+    <line id="Línea_478" data-name="Línea 478" x1="33.469" y1="57.983" transform="translate(978.387 101.867)" fill="none" stroke="#fefefe" stroke-miterlimit="10" stroke-width="0.98" stroke-dasharray="1.97 1.97"/>
+    <path id="Trazado_273557" data-name="Trazado 273557" d="M136.2,146.658H104.794l-3.165-5.816a2.386,2.386,0,0,0-2.087-1.252H72.763a2.393,2.393,0,0,0-2.393,2.372v38.194a3.332,3.332,0,0,0,3.332,3.332h62.5a3.325,3.325,0,0,0,3.332-3.332V149.984a3.326,3.326,0,0,0-3.332-3.325Z" transform="translate(829.653 -0.865)" fill="#ebebeb" opacity="0.3"/>
+    <path id="Trazado_273558" data-name="Trazado 273558" d="M144.42,176.688H85.34a5.03,5.03,0,0,1-5.03-5.03V139.85h64.109a5.03,5.03,0,0,1,5.03,5.03v26.778a5.03,5.03,0,0,1-5.03,5.03Z" transform="translate(826.629 -0.944)" fill="#fff"/>
+    <path id="Trazado_273559" data-name="Trazado 273559" d="M109.46,129.7H82.7a2.393,2.393,0,0,0-2.393,2.393v4.668h34.417l-3.165-5.809a2.386,2.386,0,0,0-2.1-1.252Z" transform="translate(826.629 2.145)" fill="#b5dfc4"/>
+    <circle id="Elipse_6220" data-name="Elipse 6220" cx="1.704" cy="1.704" r="1.704" transform="translate(913.276 133.674)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Trazado_273560" data-name="Trazado 273560" d="M103.119,134.034a1.7,1.7,0,1,1-1.7-1.7A1.7,1.7,0,0,1,103.119,134.034Z" transform="translate(820.726 1.344)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Elipse_6221" data-name="Elipse 6221" cx="1.704" cy="1.704" r="1.704" transform="translate(927.601 133.674)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Línea_746" data-name="Línea 746" y2="18.826" transform="translate(941.354 147.227)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_747" data-name="Línea 747" y2="16.133" transform="translate(945.863 148.569)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_748" data-name="Línea 748" y2="8.3" transform="translate(950.364 152.486)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_749" data-name="Línea 749" y2="18.826" transform="translate(916.685 147.227)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_750" data-name="Línea 750" y2="16.133" transform="translate(920.971 148.569)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_751" data-name="Línea 751" y2="8.3" transform="translate(925.257 152.486)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_752" data-name="Línea 752" y1="18.826" transform="translate(965.655 147.227)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_753" data-name="Línea 753" y1="16.133" transform="translate(961.371 148.569)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_754" data-name="Línea 754" y1="8.293" transform="translate(957.085 152.493)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_755" data-name="Línea 755" y1="16.133" transform="translate(936.854 148.438)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_756" data-name="Línea 756" y1="9.183" transform="translate(932.353 151.93)" fill="none" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_273561" data-name="Trazado 273561" d="M93.4,151.81c12.655,0,12.655,18.826,25.31,18.826s12.655-18.826,25.31-18.826" transform="translate(822.646 -4.583)" fill="none" stroke="#96d1ab" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Trazado_273562" data-name="Trazado 273562" d="M144.027,170.636c-12.655,0-12.655-18.826-25.317-18.826s-12.655,18.826-25.31,18.826" transform="translate(822.646 -4.583)" fill="none" stroke="#38474f" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Trazado_273563" data-name="Trazado 273563" d="M113.149,148.357a1.224,1.224,0,1,1-1.224-1.217,1.224,1.224,0,0,1,1.224,1.217Z" transform="translate(817.381 -3.162)" fill="#b5dfc4"/>
+    <path id="Trazado_273564" data-name="Trazado 273564" d="M146.245,181.527a1.217,1.217,0,1,1-1.217-1.217,1.217,1.217,0,0,1,1.217,1.217Z" transform="translate(807.306 -13.256)" fill="#b5dfc4"/>
+    <path id="Trazado_273565" data-name="Trazado 273565" d="M153.935,148.357a1.217,1.217,0,1,1-1.217-1.217,1.217,1.217,0,0,1,1.217,1.217Z" transform="translate(804.966 -3.162)" fill="#b5dfc4"/>
+    <path id="Trazado_273566" data-name="Trazado 273566" d="M89.779,167.1a1.224,1.224,0,1,1-1.217-1.217,1.224,1.224,0,0,1,1.217,1.217Z" transform="translate(824.492 -8.865)" fill="#96d1ab"/>
+    <path id="Trazado_273567" data-name="Trazado 273567" d="M113.145,181.527a1.217,1.217,0,1,1-1.217-1.217,1.217,1.217,0,0,1,1.217,1.217Z" transform="translate(817.378 -13.256)" fill="#96d1ab"/>
+    <path id="Trazado_273568" data-name="Trazado 273568" d="M172.185,164.617a1.217,1.217,0,1,1-1.217-1.217A1.217,1.217,0,0,1,172.185,164.617Z" transform="translate(799.413 -8.11)" fill="#96d1ab"/>
+  </g>
+</svg>
