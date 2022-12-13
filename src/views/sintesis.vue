@@ -3,10 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-acento-contenido
-      h5 Propagación masiva de material vegetal.
-      p.mb-0 Condiciones para el crecimiento del material vegetal.
-    
     p.mb-5 En el siguiente esquema podrá hacer un recorrido de los conceptos y temas abordados en el desarrollo de este componente formativo.
 
     .row.justify-content-center
