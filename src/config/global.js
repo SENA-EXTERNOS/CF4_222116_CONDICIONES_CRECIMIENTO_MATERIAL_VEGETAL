@@ -43,33 +43,6 @@ export default {
         numero: '1',
         titulo: 'Interpretación ambiental',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Concepto de condiciones agroclimáticas ',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Concepto de condiciones agroambientales ',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo:
-              'Interpretación de las condiciones del entorno y seguimiento',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Normatividad ambiental',
-            hash: 't_1_4',
-          },
-        ],
       },
 
       {
@@ -78,26 +51,6 @@ export default {
         numero: '2',
         titulo: 'Tipo de infraestructura requerida para la propagación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Casa malla: concepto, tipos y características',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Invernadero: concepto, tipos y características',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Vivero: concepto, tipos y características',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -105,26 +58,6 @@ export default {
         numero: '3',
         titulo: 'Condiciones para la propagación vegetal ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Preparación y desinfección de sustrato',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Cama y bandeja de germinación',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Agroquímicos y uso apropiado',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -132,20 +65,6 @@ export default {
         numero: '4',
         titulo: 'Sistema de riego',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Concepto de sistema de riego',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Tipos, frecuencia y duración de sistema de riego',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -153,26 +72,6 @@ export default {
         numero: '5',
         titulo: 'Crecimiento vegetal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Proceso de enraizamiento',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Proceso de siembra en sustrato',
-            hash: 't_5_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Medición del crecimiento',
-            hash: 't_5_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
@@ -180,20 +79,6 @@ export default {
         numero: '6',
         titulo: 'Salud y seguridad ocupacional',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Concepto de salud y seguridad ocupacional',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Normatividad vigente en salud y seguridad ocupacional',
-            hash: 't_6_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -238,7 +123,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Normatividad ambiental en el manejo de agroinsumos.',
+      tema: 'Interpretación ambiental',
       referencia:
         'Decreto 1843 de 1991. [Ministerio de Salud]. Por el cual se reglamentan parcialmente los títulos iii, v,vi, vii y xi de la ley 09 de 1979, sobre uso y manejo de plaguicidas. Agosto 26 de 1991.',
       tipo: 'Decreto.',
@@ -246,7 +131,7 @@ export default {
         'https://www.dssa.gov.co/index.php/descargas/1011-decreto-1843-1991/file#:~:text=Art%C3%ADculo%201o.,o%20causen%20deterioro%20del%20ambiente',
     },
     {
-      tema: 'Normatividad vigente en salud y seguridad ocupacional.',
+      tema: 'Salud y seguridad ocupacional',
       referencia:
         'Decreto 1443 de 2014. [Ministerio del Trabajo]. Por el cual se dictan disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST). Julio 31 de 2014.',
       tipo: 'Decreto.',
@@ -254,7 +139,7 @@ export default {
         'https://www.mintrabajo.gov.co/documents/20147/36482/decreto_1443_sgsss.pdf/ac41ab70-e369-9990-c6f4-1774e8d9a5fa',
     },
     {
-      tema: 'Normatividad vigente en salud y seguridad ocupacional.',
+      tema: 'Salud y seguridad ocupacional',
       referencia:
         'Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los estándares mínimos del sistema de gestión de la seguridad y salud en el trabajo SG-SST. Febrero 13 del 2019.',
       tipo: 'Resolución.',
@@ -276,7 +161,7 @@ export default {
     {
       termino: 'Totipotencia',
       significado:
-        'la habilidad de una célula, en un organismo multicelular, de desarrollarse independientemente en un nuevo individuo completo (Atta et al., 2009, como lo cita Rueda, C. 2019).',
+        'la habilidad de una célula, en un organismo multicelular para desarrollarse, independientemente, en un nuevo individuo completo.',
     },
     {
       termino: 'Espécimen',
@@ -286,7 +171,7 @@ export default {
     {
       termino: 'Plántula',
       significado:
-        'espécimen vegetal que se encuentra en estadios de desarrollo temprano.',
+        'espécimen vegetal que se encuentra en estadíos de desarrollo temprano.',
     },
     {
       termino: 'Clima',
@@ -306,7 +191,7 @@ export default {
     {
       termino: 'Heterotróficas',
       significado:
-        'acciones propias por desarrollar en el estadio de desarrollo de la planta.',
+        'acciones propias por desarrollar, en el estadío de desarrollo de la planta.',
     },
     {
       termino: 'Biofertilizantes',
@@ -318,12 +203,6 @@ export default {
     {
       referencia:
         'Alcántara, C., Castilla, P. & Sánchez, M. (2017). Importancia de los cultivos vegetales <em>In vitro</em> para establecer bancos de germoplasma y su uso en investigaciones. <em>Biociencias</em>, 1, p.1-13.',
-    },
-    {
-      referencia:
-        'Carrera, E., Navarrete, E., Paredes, A. & Rivadeneira, C. (2019). <em>Seguridad y salud ocupacional</em>. Instituto Superior Tecnológico Corporativo Edwards Deming.',
-      link:
-        'http://142.93.18.15:8080/jspui/bitstream/123456789/463/3/salud%20y%20seguridad%20ocupacional.pdf',
     },
     {
       referencia:
@@ -355,12 +234,12 @@ export default {
     },
     {
       referencia:
-        'Rueda, C.N. (2019). <em>Actualización de los conceptos asociados con la regeneración celular en plantas</em> [Tesis de pregrado, Universidad de Santander]. Repositorio Institucional Universidad de Santander.',
+        'Rueda, C. N. (2019). <em>Actualización de los conceptos asociados con la regeneración celular en plantas</em> [Tesis de pregrado, Universidad de Santander]. Repositorio Institucional Universidad de Santander.',
       link: 'http://repositorio.udes.edu.co/handle/001/1063',
     },
     {
       referencia:
-        'Universidad Nacional de Costa Rica. (2014). Manual de plaguicidas de Centro América. UNCR.',
+        'Universidad Nacional de Costa Rica. (2014).<em>Manual de plaguicidas de Centro América</em>. UNCR.',
       link:
         'http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/caracteristicas-generales-y-agronomicas',
     },
