@@ -37,11 +37,11 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
-          p.text-center #[em Sistema de riego por aspersión]
+          p.text-center Sistema de riego por aspersión
           figure
             img(src="@/assets/curso/tema4/img04.png")
         .col-lg-6.col-10(data-aos="fade-left")
-          p.text-center #[em Sistema de riego por goteo]
+          p.text-center Sistema de riego por goteo
           figure
             img(src="@/assets/curso/tema4/img05.png")
 

@@ -48,28 +48,24 @@
       .BGIMG01.py-lg-5.py-4.px-4(titulo="Condiciones agroambientales")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6.order-lg-1.order-2
-            .h4 Condiciones agroambientales
             p.mb-0 Las condiciones agroambientales son acciones técnicas que adelantan mejoras en los procedimientos del cultivo; esta acción permite un aumento en la productividad, reduciendo, a su vez, los impactos negativos en el medio o el ecosistema al que pertenece.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img06.png")
       .BGIMG01.py-lg-5.py-4.px-4(titulo="Técnicas agroambientales")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6.order-lg-1.order-2
-            .h4 Técnicas agroambientales
             p.mb-0 Las estrategias pueden variar con respecto al tipo de cultivo; el uso de biofertilizantes, por ejemplo, puede ser más amigable con el suelo y el agua, o la distribución de siembra puede permitir un aumento de cobertura, sin generar estrés hídrico al ser, estas, algunas de varias estrategias posibles. Estas técnicas agroambientales mejoran la calidad de los productos vegetales, los cuales, seguramente, han pasado por la selección de plantas madre y del insumo nutricional adecuado; todo esto, garantizando, por supuesto, las características de competitividad y calidad, a partir de la propagación vegetal.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img07.png")
       .BGIMG01.py-lg-5.py-4.px-4(titulo="Biotecnología aplicada a la agricultura")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6.order-lg-1.order-2
-            .h4 Biotecnología aplicada a la agricultura
             p.mb-0 El desarrollo de la biotecnología, aplicada a la agricultura, ha venido dando respuesta a cada impacto que el ambiente trae consigo. Todos los diseños o mejoras en los procedimientos, como el mismo ejercicio de propagación de material vegetal, es una respuesta a las condiciones agroambientales, lo que involucra la selección y planificación, de una especie a producir, para un ambiente determinado.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img08.png")
       .BGIMG01.py-lg-5.py-4.px-4(titulo="Requerimientos de la biotecnología aplicada a la agricultura")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6.order-lg-1.order-2
-            .h4 Requerimientos de la biotecnología aplicada a la agricultura
             p.mb-0 Los requerimientos deben ser prioridad para el ajuste en la metodología en la cual intervienen: la nutrición, el suministro de agua, la infraestructura apropiada para el control de las mismas variables agroclimáticas, inclusive la misma intervención en cuanto al riesgo fitosanitario, como enfermedades del cultivo; todo esto sujeto de la aplicación de controladores de síntesis química o de productos bioproducidos para tal finalidad, que produzcan un impacto no perjudicial para el ambiente en general.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img09.png")

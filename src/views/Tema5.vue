@@ -62,8 +62,8 @@
       .col-md-6.tarjeta.color-primario.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-5
-            img(src='@/assets/curso/tema5/img05.svg')
-        h4.text-center.text-white El sustrato
+            img(src='@/assets/curso/tema5/img06.svg')
+        h4.text-center.text-white.mt-2 El sustrato
         p.text-center.text-white.mb-0 Para la siembra, el sustrato debe permitir la acumulación de una buena cantidad del recurso hídrico, lo que permite tener periodos más amplios en la frecuencia de riego y contener, o almacenar, una mayor cantidad de nutrientes que estarán siempre disponibles, según lo requiera la planta.
 
     separador
