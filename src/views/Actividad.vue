@@ -10,7 +10,7 @@
             img(src="@/assets/template/seleccion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Opción múltiple
+          h2 Condiciones para el crecimiento del material vegetal
         p.mb-4 Analice el contenido, sus conceptos, interprete las imágenes de manera pertinente y seleccione la respuesta correcta a las siguientes preguntas. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
