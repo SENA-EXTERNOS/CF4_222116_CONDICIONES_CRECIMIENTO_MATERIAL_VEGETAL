@@ -93,7 +93,7 @@
       .BGR06.p-3(x="45%" y="38%" numero="5")
         .h4.my-4 Cuando actúa sobre plantas.
       .BGR06.p-3(x="12%" y="38%" numero="6")
-        .h4.my-4 Cuando actúa sobre insectos adultos o en estadíos inmaduros.
+        .h4.my-4 Cuando actúa sobre insectos adultos o en estadios inmaduros.
       .BGR06.p-3(x="12%" y="63%" numero="7")
         .h4.my-4 Cuando actúa sobre moluscos (caracoles, babosas).
       .BGR06.p-3(x="45%" y="63%" numero="8")
