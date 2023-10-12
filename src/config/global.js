@@ -125,7 +125,7 @@ export default {
     {
       tema: 'Interpretación ambiental',
       referencia:
-        'Decreto 1843 de 1991. [Ministerio de Salud]. Por el cual se reglamentan parcialmente los títulos iii, v,vi, vii y xi de la ley 09 de 1979, sobre uso y manejo de plaguicidas. Agosto 26 de 1991.',
+        'Decreto 1843 de 1991. [Ministerio de Salud]. Por el cual se reglamentan parcialmente los títulos III, V,VI, VII y XI de la ley 09 de 1979, sobre uso y manejo de plaguicidas. Agosto 26 de 1991.',
       tipo: 'Decreto.',
       link:
         'https://www.dssa.gov.co/index.php/descargas/1011-decreto-1843-1991/file#:~:text=Art%C3%ADculo%201o.,o%20causen%20deterioro%20del%20ambiente',
@@ -212,7 +212,7 @@ export default {
     },
     {
       referencia:
-        'Decreto 1843 de 1991. [Ministerio de Salud]. Por el cual se reglamentan parcialmente los títulos iii, v,vi, vii y xi de la ley 09 de 1979, sobre uso y manejo de plaguicidas. Agosto 26 de 1991.',
+        'Decreto 1843 de 1991. [Ministerio de Salud]. Por el cual se reglamentan parcialmente los títulos III, V,VI, VII y XI de la ley 09 de 1979, sobre uso y manejo de plaguicidas. Agosto 26 de 1991.',
     },
     {
       referencia:
@@ -224,13 +224,13 @@ export default {
       referencia:
         'Oficemen. (2017). <em>Guía de Buenas Prácticas de PRL en el Sector Cementero Español</em>. Oficemen.',
       link:
-        'https://www.ficem.org/CIC-descargas/espania/Guia-completa-de-buenas-practicas-para-la-prevencion-de-riesgos-laborales-en-el-sector-cementero-espanol.pdf',
+        'https://www.oficemen.com/wp-content/uploads/2017/05/Guia-PRL-capitulos-1-a-3.pdf',
     },
     {
       referencia:
         'Pacheco R. & Barbona, E. (2017). <em>Manual de uso seguro y responsable de agroquímicos en cultivos frutihortícolas</em>. Instituto Nacional de Tecnología Agropecuaria.',
       link:
-        'https://inta.gob.ar/sites/default/files/inta-manual-uso-agroquimicos-frutihorticola.pdf',
+        'https://www.researchgate.net/publication/326377611_inta-manual-uso-agroquimicos-frutihorticola',
     },
     {
       referencia:

@@ -71,7 +71,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 Agroquímicos y uso apropiado
 
-    p Una condición importante para la propagación vegetal, se refiere a los agroquímicos y su uso aprobado, como se describe a continuación.
+    p Una condición importante para la propagación vegetal, se refiere a los agroquímicos y su uso apropiado, como se describe a continuación.
 
     .BG04.p-5.mb-4(data-aos="zoom-in")
       SlyderB(:datos="datosSlyder")

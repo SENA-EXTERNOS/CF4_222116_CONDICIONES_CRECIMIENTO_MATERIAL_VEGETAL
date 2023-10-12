@@ -33,7 +33,7 @@
     separador
     .BGIMG06.p-md-5.p-4
 
-      p Los sistemas de riego permiten optimizar el recurso hídrico y ser preciso con el suministro. Dentro de los tipos de riego más conocidos se encuentran el de aspersión y el de goteo, y se seleccionan teniendo en cuenta las características del sustrato o del suelo, pues las densidades y la composición de estos indicará la duración y la frecuencia en su implementación.
+      p Los sistemas de riego permiten optimizar el recurso hídrico y ser precisos con el suministro. Dentro de los tipos de riego más conocidos se encuentran el de aspersión y el de goteo, y se seleccionan teniendo en cuenta las características del sustrato o del suelo, pues las densidades y la composición de estos indicará la duración y la frecuencia en su implementación.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
