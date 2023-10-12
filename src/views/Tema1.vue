@@ -15,7 +15,7 @@
         img(src="@/assets/curso/tema1/img01.svg")
 
 
-    p.my-5 Para dar inicio a la temática de este componente formativo, a continuación conoceremos el concepto sobre las condiciones agroclimáticas.
+    p.my-5 Para dar inicio a la temática de este componente formativo, a continuación, conoceremos el concepto sobre las condiciones agroclimáticas.
 
     .BGR01.p-4.mb-4(data-aos="zoom-in")
       SlyderA(tipo="b")

@@ -74,6 +74,8 @@
             </options>
           </option>
           <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -102,6 +104,7 @@
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -126,6 +129,7 @@
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
       <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -150,6 +154,7 @@
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
       <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -174,6 +179,7 @@
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -198,6 +204,7 @@
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
       <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -1147,6 +1154,7 @@
       <string id="shortcut">Atajo</string>
       <string id="shortcuthelp">Listar los atajos de teclado</string>
       <string id="keyboardshortcuts">Atajos de teclado</string>
+      <string id="background_audio_shortcut">Activar/Desactivar el audio de fondo</string>
       <string id="acctext_shortcut">Activar/Desactivar texto accesible</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
       <string id="closedcaptions_shortcut">Activar/Desactivar accesibilidad del texto</string>
@@ -1178,6 +1186,7 @@
       <string id="finish">FINALIZAR</string>
       <string id="acc_volume">volumen</string>
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
+      <string id="background_audio">Audio de fondo</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="acc_enter_fullscreen">Ingresar en el modo de pantalla completa</string>
       <string id="acc_exit_fullscreen">Salir del modo de pantalla completa</string>
@@ -1285,6 +1294,23 @@
       <string id="shift_key">Mayúsculas</string>
       <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
       <string id="acc_active">activo</string>
+      <string id="transcript_auto_scroll">Desplazamiento automático</string>
+      <string id="acc_modern_video_transcript">Abrir</string>
+      <string id="acc_window_resize">Ajustar tamaño de ventana</string>
+      <string id="acc_window_close">Cerrar</string>
+      <string id="acc_video_transcript_list">Transcripciones</string>
+      <string id="acc_window_move">Mover ventana</string>
+      <string id="acc_window_options">Opciones</string>
+      <string id="transcript_show_timestamp">Mostrar marcas de tiempo</string>
+      <string id="video_transcript_resume_autoscroll">Reanudar desplazamiento automático</string>
+      <string id="video_transcript_select_track">Seleccionar pista</string>
+      <string id="video_transcript_title">Transcripciones</string>
+      <string id="acc_playback_speed">~þlaý~bacķ~ špe~ed</string>
+      <string id="playback_speed_title">~Plaý~bacķ~ Sþe~ed</string>
+      <string id="playback_speed_normal">~Nøřӎ~al</string>
+      <string id="streaming_video_local_playback_learn_more">Saber más</string>
+      <string id="streaming_video_local_playback_republish">Para ver este video, utiliza la funcionalidad de previsualización en Storyline 360, sube tu curso publicado a un servidor, publica el curso en Review 360 o cambia a calidad de video estática.</string>
+      <string id="streaming_video_local_playback_title">El video en streaming no está disponible para reproducción local.</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1305,6 +1331,10 @@
             <slidelink slideid="_player.6g8RcXIVtvA.64rZcxwdqXa" displaytext="En la instalación de un cultivo se debe prever situaciones que impliquen un retroceso o riesgo en su desarrollo. Así, para reducir el impacto negativo de algunas variables del clima que puedan afectar el cultivo, se debe optar por:" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.6GcNrKhHuYL" displaytext="El uso de agroquímicos es una práctica de riesgo en el desarrollo de actividades agrícolas, por esta razón, y para reducirlos, se dispone de la normatividad que los regula en términos de transporte, almacenamiento, distribución, expendio, aplicación, etc. Teniendo en cuenta lo anterior, seleccione la situación que representa un mal uso de estos productos." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5dJg7QfsaCi" displaytext="Las plantas poseen células que forman el tejido meristemático, el cual inicia el crecimiento de sus partes. El conocimiento de las células que conforman estos tejidos ha permitido:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6Qt7UPkueLF" displaytext="Las condiciones agroclimáticas hacen referencia a" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6UpW1aUOKs6" displaytext=" Las condiciones agroambientales hacen referencia a:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.64EWDuNRDM1" displaytext="En la instalación de un cultivo se deben prever situaciones que impliquen un retroceso o riesgo en el desarrollo de este, para reducir el impacto negativo de algunas variables del clima que puedan afectar se opta por:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6Ry5zddQemp" displaytext="La normatividad ambiental del uso de agro insumos, indica con respecto a las prácticas agrícolas el:" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
